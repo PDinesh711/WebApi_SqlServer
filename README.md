@@ -1,7 +1,7 @@
 <h1> Design your data model: </h1>
 Determine the data structure you want to work with. For example, if you're building an API for managing books, you might have a "SuperMarket" model with fields like Product id , product name , product price , product desc  , product Rating .
 <h1> Create a database:  </h1>
-Set up a database to store your data. You can use relational databases like <h1>.net WebApi , SqlServer</h1> PostgreSQL, or NoSQL databases like MongoDB.
+Set up a database to store your data. You can use relational databases like <a>.net WebApi , SqlServer</a> PostgreSQL, or NoSQL databases like MongoDB.
 <h1> Define API endpoints:  </h1>
 Define the URLs and HTTP methods (GET, POST, PUT, DELETE) for your API. For example, <h1> /api/SuperMarket </h1> might be the endpoint for managing books.
 <h1> Implement Create, Read, Update, Delete operations:  </h1>
